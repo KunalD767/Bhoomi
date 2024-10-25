@@ -6,8 +6,7 @@
 
 ## Key Features
 
-### 1. Aerial Precision Agriculture
-- **Drone-Based Imaging**: Drones equipped with multispectral cameras capture high-resolution images of crops.
+### 1. Precision Agriculture
 - **Super-Resolution Models**: Using AI models like FSRCNN, Bhoomi enhances image quality, providing better accuracy in crop analysis.
 - **AI-Driven Analysis**: The enhanced images are analyzed by AI to detect crop stress, diseases, and nutrient deficiencies.
 - **Real-Time Recommendations**: The platform provides actionable insights on irrigation, fertilization, and pest control, helping farmers optimize their resources.
